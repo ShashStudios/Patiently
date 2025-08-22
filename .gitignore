@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# Build
+target/
+build/
+out/
+*.class
+
+# Logs
+*.log
+
+# Env
+.env
